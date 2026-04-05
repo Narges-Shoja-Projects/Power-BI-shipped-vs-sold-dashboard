@@ -25,3 +25,7 @@ The dashboard compares sold items and shipped items to analyze order fulfillment
 
 ## Business Value
 This dashboard enables businesses to monitor supply chain performance, identify gaps between sold and shipped items, ensure that the balance between sales and shipments is properly managed, analyze sales and shipment trends, and support data-driven logistics decisions.
+
+
+<img width="1302" height="710" alt="image" src="https://github.com/user-attachments/assets/ac66e949-134e-40fd-b265-0da757b65a68" />
+
